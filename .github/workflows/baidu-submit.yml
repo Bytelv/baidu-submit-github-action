@@ -1,4 +1,4 @@
-name: Baidu submit - space.lvbyte.tk
+name: Baidu submit - blog.lvbyte.top
 on:
   push:
     branches:
@@ -22,8 +22,8 @@ jobs:
 
       - name: Baidu submit 🚀🚀🚀
         run: |
-          echo "SITE_URL=http://space.lvbyte.tk" > .env \
-          && echo "SITEMAP_URL=https://space.lvbyte.tk/baidusitemap.xml" >> .env \
+          echo "SITE_URL=http://blog.lvbyte.top" > .env \
+          && echo "SITEMAP_URL=https://blog.lvbyte.top/baidusitemap.xml" >> .env \
           && echo "TOKEN=${{ secrets.BAIDU_TOKEN }}" >> .env \
           && mkdir -p log \
           && ./baidu-submit.sh >> log/baidu-submit.log 2>&1
