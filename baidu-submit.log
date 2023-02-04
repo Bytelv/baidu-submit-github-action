@@ -817,3 +817,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   676  100    27  100   649     25    610  0:00:01  0:00:01 --:--:--   635
 {"remain":2951,"success":8}Done!
+
+===========================================
+Sat Feb 4 15:16:34 UTC 2023
+===========================================
+SITE_URL: http://blog.lvbyte.top
+SITEMAP_URL: https://blog.lvbyte.top/baidusitemap.xml
+Get sitemap https://blog.lvbyte.top/baidusitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   721  100    27  100   694     24    618  0:00:01  0:00:01 --:--:--   643100   721  100    27  100   694     24    618  0:00:01  0:00:01 --:--:--   643
+{"remain":2942,"success":9}Done!
