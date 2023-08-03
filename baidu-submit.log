@@ -4650,3 +4650,11 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1320  100    26  100  1294     26   1296  0:00:01 --:--:--  0:00:01  1322
 {"remain":83,"success":17}Done!
+
+===========================================
+Thu Aug 3 04:04:47 UTC 2023
+===========================================
+SITE_URL: http://blog.lvbyte.top
+SITEMAP_URL: https://blog.lvbyte.top/baidusitemap.xml
+Get sitemap https://blog.lvbyte.top/baidusitemap.xml
+Done!
