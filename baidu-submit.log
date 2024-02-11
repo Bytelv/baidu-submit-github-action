@@ -9430,3 +9430,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1750  100    36  100  1714     34   1650  0:00:01  0:00:01 --:--:--  1685100  1750  100    36  100  1714     34   1649  0:00:01  0:00:01 --:--:--  1685
 {"error":400,"message":"over quota"}Done!
+
+===========================================
+Sun Feb 11 15:16:23 UTC 2024
+===========================================
+SITE_URL: http://blog.lvbyte.top
+SITEMAP_URL: https://blog.lvbyte.top/baidusitemap.xml
+Get sitemap https://blog.lvbyte.top/baidusitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1750  100    36  100  1714     26   1283  0:00:01  0:00:01 --:--:--  1310100  1750  100    36  100  1714     26   1283  0:00:01  0:00:01 --:--:--  1309
+{"error":400,"message":"over quota"}Done!
